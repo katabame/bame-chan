@@ -33,7 +33,7 @@ katabame-chanは性的表現や暴力的表現等、年齢制限が必要な表�
 何かご不明な点やご相談等ありましたらお気軽に下記連絡先までお問い合わせ下さい。  
 通常3日以内に返信致します。
 * Twitter: [@katabame](https://twitter.com/katabame)<sup>DM開放しています</sup>
-* E-mail: [mail@katabame](mailto://mail@kataba.me)
+* E-mail: mail@kataba.me
 
 ### katabame-chan v1.2 詳細仕様
 
@@ -81,7 +81,7 @@ katabame-chanは性的表現や暴力的表現等、年齢制限が必要な表�
 
 
 ### なんかいっつも一緒にいるやつ
-* 名前: _決まってない..._
+* 名前: ロチェ (Roche)
 	* _ぷにぷに..._
 * スライム状
 	* どちらかというとジェルに近い
