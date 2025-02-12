@@ -35,7 +35,7 @@ katabame-chanは性的表現や暴力的表現等、年齢制限が必要な表�
 * Twitter: [@katabame](https://twitter.com/katabame)<sup>DM開放しています</sup>
 * E-mail: mail@kataba.me
 
-### katabame-chan v1.2 詳細仕様
+### katabame-chan v1.3 詳細仕様
 
 #### 体格
 * 身長: 160cm前後
